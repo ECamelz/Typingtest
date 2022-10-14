@@ -14,3 +14,6 @@ https://bitcoden.com/answers/how-do-i-send-data-from-js-to-python-with-flask -> 
 
 usefull styling
 https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
+
+
+test
